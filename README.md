@@ -2,8 +2,6 @@
 description: how we are
 ---
 
-# Test
+# about the project
 
-just for testing the commits and PR
-
-No no no
+social network is a platform for communities to communicate and share useful information with each other

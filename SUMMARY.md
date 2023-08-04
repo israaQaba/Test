@@ -1,6 +1,6 @@
 # Table of contents
 
-## Group 1
+## Social network
 
 * [Test Social](README.md)
-* [Team](group-1/team.md)
+* [Team](social-network/team.md)

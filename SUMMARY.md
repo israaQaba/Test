@@ -2,12 +2,5 @@
 
 ## Group 1
 
-* [Page 1](README.md)
-
-## team
-
-* [Social-network-nextjs Team Structure](team/social-network-nextjs-team-structure.md)
-
-***
-
-* [Page 2](page-2.md)
+* [Test Social](README.md)
+* [Team](group-1/team.md)

@@ -1,8 +1,6 @@
----
-description: about the team
----
-
 # Team
+
+**About the Team**
 
 **Total Team Size**: \[8]
 

@@ -14,12 +14,3 @@
 | Developer          | Motaz    | \[Email]                                                |
 | Developer          | Mays     | [maynab4@gmail.com](mailto:maynab4@gmail.com)           |
 | Developer          | Fadya    | \[]                                                     |
-
-### Responsibilities
-
-#### Software Architect
-
-* [ ] &#x20;Owns technical quality of the delivery
-* [ ] &#x20;Maintains software architecture
-* [ ] &#x20;New developer onboarding
-* [ ] &#x20;Sets code review process

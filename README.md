@@ -13,4 +13,3 @@
 | Developer          | Mahmood  | \[Email]                                                |
 | Developer          | Motaz    | \[Email]                                                |
 | Developer          | Mays     | [maynab4@gmail.com](mailto:maynab4@gmail.com)           |
-| Developer          | Fadya    | \[]                                                     |

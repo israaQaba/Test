@@ -11,4 +11,3 @@
 | Developer          | Sarah    | \[[sarawork.m@gmail.com](mailto:sarawork.m@gmail.com)]  |
 | Developer          | Aya      | \[Email]                                                |
 | Developer          | Mahmood  | \[Email]                                                |
-| Developer          | Motaz    | \[Email]                                                |

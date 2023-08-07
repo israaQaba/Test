@@ -10,4 +10,3 @@
 | Developer          | Israa    | [israa.qaba98@gmail.com](mailto:israa.qaba98@gmail.com) |
 | Developer          | Sarah    | \[[sarawork.m@gmail.com](mailto:sarawork.m@gmail.com)]  |
 | Developer          | Aya      | \[Email]                                                |
-| Developer          | Mahmood  | \[Email]                                                |
